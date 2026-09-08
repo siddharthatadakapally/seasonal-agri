@@ -1,0 +1,11 @@
+[project]
+name = "seasonal-agri-app"
+version = "0.1.0"
+description = "Interactive Streamlit dashboard for the Seasonal Agriculture Performance Analysis dataset"
+requires-python = ">=3.12"
+dependencies = [
+    "numpy>=2.5.3",
+    "pandas>=3.0.5",
+    "plotly>=7.0.0",
+    "streamlit>=1.63.0",
+]
